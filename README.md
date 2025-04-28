@@ -37,7 +37,6 @@ This is a minimal, language-agnostic [DevContainer](https://containers.dev/) set
 ```
 .devcontainer/
 ├── devcontainer.json
-├── Dockerfile
 ```
 
 ## Requirements
