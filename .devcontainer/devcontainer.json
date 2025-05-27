@@ -3,9 +3,8 @@
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
         "ghcr.io/jonmatum/devcontainer-features/shell:latest": {
-            "opinionated": false,
-            "p10kUrl": "https://gist.githubusercontent.com/jonmatum/c0b7c317f281b03bb857e425fe23f9d4/raw/9ebf9e998816282407ac9c493c5a41605971909d/.p10k.zsh",
-            "zshrcUrl": "https://gist.githubusercontent.com/jonmatum/55a5ff475dbb3c5854d5ddd40dc5961d/raw/4afca2876a943ce37ef6873848d013fe71847a80/.zshrc"
+            "timezone": "America/Costa_Rica",
+            "opinionated": true
         }
     },
     "customizations": {
@@ -14,6 +13,5 @@
                 "terminal.integrated.defaultProfile.linux": "zsh"
             }
         }
-    },
-    "remoteUser": "root"
+    }
 }
