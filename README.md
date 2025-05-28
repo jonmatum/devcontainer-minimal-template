@@ -62,6 +62,11 @@ For example, to enable the custom shell feature:
 
 This project is licensed under the [MIT License](LICENSE).
 
+## More Resources
+
+- [10 Reasons Why DevContainers Are Game Changers](https://jonmatum.github.io/slidev-devcontainers-simplified/)
+- [DevContainers Official Documentation](https://containers.dev/)
+
 ---
 
 ```shell
